@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 四書纂疏
-#+DATE: 2016-04-12 14:00:31.761800
+#+DATE: 2016-04-12 14:00:32.998105
 #+PROPERTY: ID KR1h0028
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 7
 <pb:KR1h0028_WYG_007-1a>¶
 　　欽定四庫全書¶
@@ -587,7 +587,7 @@
 　　巫馬姓期字孔子弟子名施(魯人)司敗揖而進之也相¶
 助匿非曰黨禮不娶同姓而魯與呉皆姬姓謂之呉¶
 孟子者諱之使若宋女子姓者然(輔氏曰婦人稱姓周女曰姬宋¶
-女曰子齊女曰姜楚女曰羋是也)¶
+女曰子齊女曰姜楚女曰芉是也)¶
 ¶
 　　巫馬期以告子曰丘也幸茍有過人必知之¶
 ¶

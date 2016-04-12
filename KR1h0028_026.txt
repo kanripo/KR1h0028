@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 四書纂疏
-#+DATE: 2016-04-12 14:00:32.441081
+#+DATE: 2016-04-12 14:00:33.705630
 #+PROPERTY: ID KR1h0028
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 26
 <pb:KR1h0028_WYG_026-1a>¶
 　　欽定四庫全書¶
@@ -304,7 +304,7 @@
 ¶
 　　見謂名實之顯著也此又言士得已民不失望之實¶
 (輔氏曰古之人得志澤加於民乃民不失望之實不得志則修身見於世乃士得已之實又極其用而言¶
-之則窮則獨善其身達則兼善天下也)○此章言内重而外&KR0127;則無往¶
+之則窮則獨善其身達則兼善天下也)○此章言内重而外輕則無往¶
 <pb:KR1h0028_WYG_026-15a>¶
 而不善¶
 ¶
